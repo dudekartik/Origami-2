@@ -1,0 +1,26 @@
+body{
+    background-color: #110f34;
+}
+h1{
+    font-style: italic;
+    color:#fd5623;
+    text-align: center;
+}
+li{
+    color: #209639;
+}
+p{
+    color:#90fa78;
+    
+}
+.grid{
+    display: flex;
+    background-color:#000000;
+    padding-left: 20px;
+}
+.header{
+padding-bottom: 20px;
+}
+.c{
+    padding-top: 20px;
+}
